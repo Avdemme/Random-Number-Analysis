@@ -1,0 +1,24 @@
+frequency of numbers 0-9 occur the	1	digit place in rand_uniform in order are:
+
+	0.1004		0.0961		0.1015		0.1015		0.0985		0.0996		0.1038		0.0998		0.0972		0.1016	
+
+frequency of numbers 0-9 occur the	2	digit place in rand_uniform in order are:
+
+	0.1023		0.098		0.1003		0.1003		0.0996		0.1005		0.1003		0.0984		0.1007		0.0996	
+
+frequency of numbers 0-9 occur the	3	digit place in rand_uniform in order are:
+
+	0.1012		0.1007		0.0968		0.101		0.1003		0.1005		0.1023		0.0968		0.0978		0.1026	
+
+frequency of numbers 0-9 occur the	4	digit place in rand_uniform in order are:
+
+	0.0966		0.0994		0.1046		0.0993		0.1031		0.1005		0.0995		0.0994		0.1007		0.0969	
+
+frequency of numbers 0-9 occur the	5	digit place in rand_uniform in order are:
+
+	0.1009		0.0995		0.0952		0.0984		0.1013		0.1026		0.1057		0.0968		0.0989		0.1007	
+
+frequency of numbers 0-9 occur the	6	digit place in rand_uniform in order are:
+
+	0.1068		0.103		0.0954		0.0997		0.0993		0.1007		0.0992		0.0992		0.0975		0.0992	
+
